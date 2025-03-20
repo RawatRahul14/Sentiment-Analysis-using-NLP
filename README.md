@@ -6,10 +6,11 @@
 - [Setup and Installation](#setup-and-installation)
 
 ### Objective
-The goal of this assignment is to build a sentiment analysis system using the Bag of Words (BoW) and TF-IDF techniques. Students will preprocess the dataset, clean and tokenize text using regular expressions (regex) in Python, and apply at least three machine learning models to classify the sentiment of given text data. Finally, they will evaluate and compare model performances to determine the best-performing model. 
+The goal of this assignment is to build a sentiment analysis system using the Bag of Words (BoW) and TF-IDF techniques. The task involves preprocessing a dataset, cleaning and tokenizing text using regular expressions (regex) in Python, and applying at least three machine learning models to classify the sentiment of given text data. Finally, the performance of these models will be evaluated and compared to determine the best-performing approach.
+
 
 ### Dataset
-A dataset scraped from the internet containing text with missing values, non-character symbols, and ASCII codes will be provided. Students must clean and preprocess the dataset before applying sentiment analysis. 
+A dataset scraped from the internet containing text with missing values, non-character symbols, and ASCII codes will be provided. The dataset must be cleaned and preprocessed before applying sentiment analysis.
 
 ### Dataset Overview
 - Columns:
